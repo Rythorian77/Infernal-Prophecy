@@ -1,0 +1,12 @@
+C:\Users\justin.ross\source\repos\Infernal Prophecy\Infernal Prophecy\bin\Debug\Infernal Prophecy.exe.config
+C:\Users\justin.ross\source\repos\Infernal Prophecy\Infernal Prophecy\bin\Debug\Infernal Prophecy.exe
+C:\Users\justin.ross\source\repos\Infernal Prophecy\Infernal Prophecy\bin\Debug\Infernal Prophecy.pdb
+C:\Users\justin.ross\source\repos\Infernal Prophecy\Infernal Prophecy\bin\Debug\Infernal Prophecy.xml
+C:\Users\justin.ross\source\repos\Infernal Prophecy\Infernal Prophecy\obj\Debug\Infernal Prophecy.vbproj.AssemblyReference.cache
+C:\Users\justin.ross\source\repos\Infernal Prophecy\Infernal Prophecy\obj\Debug\Infernal_Prophecy.Form1.resources
+C:\Users\justin.ross\source\repos\Infernal Prophecy\Infernal Prophecy\obj\Debug\Infernal_Prophecy.Resources.resources
+C:\Users\justin.ross\source\repos\Infernal Prophecy\Infernal Prophecy\obj\Debug\Infernal Prophecy.vbproj.GenerateResource.cache
+C:\Users\justin.ross\source\repos\Infernal Prophecy\Infernal Prophecy\obj\Debug\Infernal Prophecy.vbproj.CoreCompileInputs.cache
+C:\Users\justin.ross\source\repos\Infernal Prophecy\Infernal Prophecy\obj\Debug\Infernal Prophecy.exe
+C:\Users\justin.ross\source\repos\Infernal Prophecy\Infernal Prophecy\obj\Debug\Infernal Prophecy.xml
+C:\Users\justin.ross\source\repos\Infernal Prophecy\Infernal Prophecy\obj\Debug\Infernal Prophecy.pdb
